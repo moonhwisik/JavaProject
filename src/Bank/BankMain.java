@@ -256,6 +256,8 @@ public class BankMain {
 					System.out.print("내 통장 메모 >> ");
 					String mwrite = sc.next();
 					
+					
+					
 					System.out.print("받는분 통장 메모 >> ");
 					String rwrite = sc.next();
 					
